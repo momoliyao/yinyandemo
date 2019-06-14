@@ -1,0 +1,26 @@
+body {
+  background: #eee;
+}
+
+* {
+  position: absolute;
+  margin: 0; padding: 0;
+}
+
+input[type="submit11"] {
+  width: 100%;
+  border: 0;
+  line-height: 35px;
+  height: 80px;
+  color: #fff;
+  background: rgba(0,0,0,0);
+  font-size: 36px;
+  top: 30px;
+  left: 200px;
+  cursor: pointer;
+}
+
+form {
+  width: 600px;
+  height: 100px;
+}
